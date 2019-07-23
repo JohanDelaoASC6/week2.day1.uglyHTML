@@ -1,0 +1,17 @@
+html{
+    background-color: rgb(53,53,53)
+}
+.top{
+    font-family: 'Tangerine', cursive;
+    color:whitesmoke;
+    text-align: center;
+}
+header{
+    font-size: 72px;
+}
+h3{
+    font-size: 26px
+}
+img{
+    width: 540px;
+}
